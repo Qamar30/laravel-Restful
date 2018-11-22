@@ -5,7 +5,7 @@
 ## Prerequisites
 PHP >= 7.1.3
 Composer
-A Pusher account and Pusher app credentials
+Postman for testing Api endpoints
 Getting started
 Clone the project and install dependencies:
 
